@@ -27,8 +27,8 @@
       "style-loader": "^0.23.1",
       "webpack": "^4.33.0",
       "webpack-cli": "^3.3.3",
-      "webpack-dev-server": "^3.1.14",
-      "querystringify": ">=2.0.0"
+      "webpack-dev-server": "^3.7.1",
+      "querystringify": ">=2.1.1"
    },
    "dependencies": {
       "uuid": "^3.3.2"
